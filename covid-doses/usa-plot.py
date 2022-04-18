@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 # Create Pandas Data Frame from csv data 
-df = pd.read_csv('usa-feb.csv')
+df = pd.read_csv('usa.csv')
 
 # Trimming CSV file to extract only dates and vaccination doses
 df = df[['date', 'total_vaccinations']]
