@@ -1,6 +1,4 @@
 # Import Libraries
-# pip install pandas
-# pip install matplotlib
 import pandas as pd 
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
