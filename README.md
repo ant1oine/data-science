@@ -1,6 +1,6 @@
 # data-science
 
-## 0 - MAtplotlib Animation
+## 0 - Matplotlib Animation
 
 Animated matplotlib graph that shows the increase of covid doses in the United States
 
