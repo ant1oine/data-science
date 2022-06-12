@@ -17,8 +17,11 @@ x,y = [], []
 
 # Extract data for each date sequentially to create animation
 def animate(i):
-	x.append(a[i])
-	y.append(b[i])
+	if len(x) < df.shape[0]:
+		x.append(a[i])
+		y.append(b[i])
+	else:
+		pass
 	plt.plot(x,y, 'r-')
 
 # Change background color of plot and file
