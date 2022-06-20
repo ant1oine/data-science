@@ -4,6 +4,6 @@
 
 Animated matplotlib graph that shows the increase of covid doses in the United States
 
-## 1 - Dash Application
+## 1 - Advanced Plolty 
 
-Create Data Science Application from scratch in Python 
+Easy to create visuals that will blow away your customers while discussing your findings
