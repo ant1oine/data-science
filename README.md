@@ -6,4 +6,4 @@ Animated matplotlib graph that shows the increase of covid doses in the United S
 
 ## 1 - Advanced Plolty 
 
-Easy to create visuals that will blow away your customers while discussing your findings
+Easy to create visuals that will impress your customers 
